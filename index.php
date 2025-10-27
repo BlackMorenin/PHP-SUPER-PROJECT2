@@ -2,22 +2,7 @@
 <html lang="pt-br">
 <head>
    <meta charset="UTF-8">
-   <title>Página Inicial</title>
-   <style>
-    body {
-         background-color: var(--bg-primary);
-         color: var(--text-primary);
-         min-height: 100vh;
-         display: flex;
-         justify-content: center;
-         align-items: center;
-         padding: 20px;
-         background-image: linear-gradient(to bottom right, #0c0c0c, #1a1a2e);
-      }
-      h2 {
-         color: green;
-      }
-    </style>  
+   <title>Página Inicial</title>  
 </head>
 <body>
    <h2>Projeto2</h2>
